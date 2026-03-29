@@ -1,4 +1,2 @@
 # True-Sight-Glasses
-Code for my Hackclub Blueprint project which is designed to match pictures of peoples faces to live video and if they match then it will take the name of the file and print it out.
-
-
+I created this project because I have a poor memory and often forget people's names. This project looks at people's faces using a small camera attached to the glasses frame. If a face matches an entry in my repository, the system retrieves the file name and plays the audio through a small speaker into my ear.
