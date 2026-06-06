@@ -15,4 +15,5 @@ I created this project because I have a poor memory and often forget people's na
 
 ## Zine
 
-<img width="442" height="632" alt="Screenshot 2026-05-23 164405" src="https://github.com/user-attachments/assets/f853ff07-0843-4b36-9ff3-f3804b5db965" />
+<img width="418" height="544" alt="image" src="https://github.com/user-attachments/assets/c07b5837-794e-4b66-9761-885e523e1733" />
+
