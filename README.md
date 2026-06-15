@@ -7,7 +7,7 @@ I created this project because I have a poor memory and often forget people's na
 
 ## Bom
 
-<img width="1150" height="525" alt="image" src="https://github.com/user-attachments/assets/1d4ad7ec-f679-4a42-889f-48309797b1f6" />
+<img width="997" height="523" alt="image" src="https://github.com/user-attachments/assets/0ce7ec04-7f43-4212-bf30-128ec8f2d939" />
 
 ## Wiring Plan
 
