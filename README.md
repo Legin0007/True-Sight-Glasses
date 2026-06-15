@@ -1,10 +1,22 @@
 ## What this project does
-This project looks at people's faces using a small camera attached to the glasses frame. If a face matches an entry in my repository, the system retrieves the file name and plays the audio through a small speaker into my ear.
+This project looks at people's faces using a small camera attached to the glasses frame. If a face matches an entry in my repository, the system retrieves the file name and plays the audio through a small speaker into my ear. Also I would like to preface this by saying I am using a libary called ESP-WHO and the example code I am using is made by them and modified by me.
 # Why I made this
 I created this project because I have a poor memory and often forget people's names so this is an effective method to remember people's names.
 
 ## Construction Instructions:
-
+### Sourcing Parts
+1.Download the BOM and open it in google sheets or some thing like it.
+2.Go through all the links and buy the parts that are required.
+3.Download the folder called "3D-Models" download them and print them using your respective slicer.
+### Flashing the firmware
+1.You need to download the folder labeled "Code".
+2.Open VS code and go to file and select open folder then go to esp-who\examples\human_face_recognition and click open folder.
+3.You need to install ESP-IDF from the link in Resources and select custom install then follow all the steps until it asks for the version which you select 5.5.4 and continue with the installation.
+4.Go to VS code and install the ESP-IDF extension.
+5.Press F1 and type  ESP-IDF: Open ESP-IDF Terminal then type idf.py reconfigure
+6.Press F1 and type  ESP-IDF: Select Port to Use (COM, tty, usbserial)
+7.Press F1 and run ESP-IDF: Build, Flash and Start a Monitor
+8.Go to the file who_recognition.cpp then you need to find where it says "Hello Amma" and change it out with the first person you will enroll so on and so forth.
 ## Bom
 
 <img width="997" height="523" alt="image" src="https://github.com/user-attachments/assets/0ce7ec04-7f43-4212-bf30-128ec8f2d939" />
@@ -16,4 +28,8 @@ I created this project because I have a poor memory and often forget people's na
 ## Zine
 
 <img width="422" height="542" alt="image" src="https://github.com/user-attachments/assets/b45b2693-e553-4a40-8c83-134311e10139" />
-
+## Resources
+Download link 
+https://docs.espressif.com/projects/idf-im-ui/en/latest/
+ESP-WHO link 
+https://developer.espressif.com/blog/2026/05/esp-who-get-started/
