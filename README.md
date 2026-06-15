@@ -11,9 +11,9 @@ I created this project because I have a poor memory and often forget people's na
 
 ## Wiring Plan
 
-<img width="1123" height="794" alt="True_Sight" src="https://github.com/user-attachments/assets/0127a7f6-1232-4deb-b272-e44ef9f1aa99" />
+<img width="997" height="611" alt="image" src="https://github.com/user-attachments/assets/0e260511-e0fc-4b27-9d0a-ef80f4432d25" />
 
 ## Zine
 
-<img width="418" height="544" alt="image" src="https://github.com/user-attachments/assets/c07b5837-794e-4b66-9761-885e523e1733" />
+<img width="422" height="542" alt="image" src="https://github.com/user-attachments/assets/b45b2693-e553-4a40-8c83-134311e10139" />
 
