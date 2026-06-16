@@ -1,7 +1,7 @@
 ## What this project does
 This project looks at people's faces using a small camera attached to the glasses frame. If a face matches an entry in my repository, the system retrieves the file name and plays the audio through a small speaker into my ear. Also I would like to preface this by saying I am using a libary called ESP-WHO and the example code I am using is made by them and modified by me.
 # Why I made this
-I created this project because I have a poor memory and often forget people's names so this is an effective method to remember people's names.
+This project was made because I have a poor memory and I often forget peoples names so this is a simple and semi-elegant solution.Other people that may use this are people with memory loss or other memory related illnesses or diseases. 
 
 ## Construction Instructions:
 ### Sourcing Parts
