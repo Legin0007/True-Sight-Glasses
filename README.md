@@ -31,7 +31,7 @@ I created this project because I have a poor memory and often forget people's na
 
 ## Render
 
-<img width="1920" height="782" alt="Nigels First" src="https://github.com/user-attachments/assets/68c132f3-f426-4385-b600-c3358e3b28c5" />
+<img width="1920" height="632" alt="Nigels First numero 1" src="https://github.com/user-attachments/assets/752f37a6-fcee-442e-b914-9544da12ca63" />
 <img width="1920" height="632" alt="True_Sight2" src="https://github.com/user-attachments/assets/b406203f-9311-4f8f-8269-89f5d115562c" />
 
 ## Resources
