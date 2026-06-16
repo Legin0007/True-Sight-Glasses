@@ -29,6 +29,10 @@ I created this project because I have a poor memory and often forget people's na
 
 <img width="1545" height="2000" alt="1" src="https://github.com/user-attachments/assets/ec55c3d2-3d21-426c-b23b-758087df9d74" />
 
+## Render
+
+<img width="1920" height="782" alt="Nigels First" src="https://github.com/user-attachments/assets/68c132f3-f426-4385-b600-c3358e3b28c5" />
+<img width="1920" height="632" alt="True_Sight2" src="https://github.com/user-attachments/assets/b406203f-9311-4f8f-8269-89f5d115562c" />
 
 ## Resources
 
