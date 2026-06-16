@@ -27,7 +27,8 @@ I created this project because I have a poor memory and often forget people's na
 
 ## Zine
 
-<img width="422" height="542" alt="image" src="https://github.com/user-attachments/assets/b45b2693-e553-4a40-8c83-134311e10139" />
+<img width="1545" height="2000" alt="1" src="https://github.com/user-attachments/assets/ec55c3d2-3d21-426c-b23b-758087df9d74" />
+
 
 ## Resources
 
