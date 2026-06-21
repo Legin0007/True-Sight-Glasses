@@ -23,7 +23,7 @@ This project was made because I have a poor memory and I often forget peoples na
 
 ## Wiring Plan
 
-<img width="997" height="611" alt="image" src="https://github.com/user-attachments/assets/0e260511-e0fc-4b27-9d0a-ef80f4432d25" />
+<img width="1235" height="750" alt="image" src="https://github.com/user-attachments/assets/58532883-ece1-482b-ae92-df164af0bb3f" />
 
 ## Zine
 
