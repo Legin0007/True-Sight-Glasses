@@ -19,7 +19,20 @@ This project was made because I have a poor memory and I often forget peoples na
 8.Go to the file who_recognition.cpp then you need to find where it says "Hello Amma" and change it out with the first person you will enroll so on and so forth.
 ## Bom
 
-<img width="1000" height="580" alt="image" src="https://github.com/user-attachments/assets/a1859817-ab01-4439-bd80-1f467167b60f" />
+| Name | Description | Quantity | Unit Price | Shipping cost |
+| :--- | :--- | :--- | :--- | :--- |
+| Esp32s3-EYE | Camera and for running the code | 1 | 45 | 0 |
+| Lipo 3.7V 500mAh battery | For powering all parts of the project | 1 | 8.59 | 3.26 |
+| Bone Conduction Speaker | To play peoples names | 1 | 2.16 | 0 |
+| Adafruit Mono Amp | gives the speaker instructions | 1 | 2.64 | 0 |
+| On/Off Switch | To enable and disable the power. | 1 | 2.81 | 0 |
+| 3.3v ldo regulator | To make the volatage 3.3V | 1 | 1.85 | 0 |
+| Soldering iron | To attach wires to other parts | 1 | 2.75 | 0 |
+| Solder | Melted metal to attach wires | 1 | 2.91 | 0 |
+| Heatshrink Tubing | Can cover wires for safety and looks | 1 | 2.68 | 0 |
+| Wires | To connect all electrical parts together | 1 | 1.5 | 0 |
+| Wire Stripper | To remove plastic from wires for easy soldering | 1 | 3.43 | 0 |
+| Total Cost | The total cost of all items | 1 | 81.87 | 0 |
 
 ## Wiring Plan
 
