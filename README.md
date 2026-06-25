@@ -20,6 +20,7 @@ This project was made because I have a poor memory and I often forget peoples na
 ## Bom
 
 | Name | Description | Quantity | Unit Price | Shipping cost |
+
 | :--- | :--- | :--- | :--- | :--- |
 | Esp32s3-EYE | Camera and for running the code | 1 | 45 | 0 |
 | Lipo 3.7V 500mAh battery | For powering all parts of the project | 1 | 8.59 | 3.26 |
