@@ -8,6 +8,7 @@ This project was made because I have a poor memory and I often forget peoples na
 1.Download the BOM and open it in google sheets or some thing like it.
 2.Go through all the links and buy the parts that are required.
 3.Download the folder called "3D-Models" download them and print them using your respective slicer.
+4.After you source all the parts put them in their respective positions and use the pins to hold them in place.
 ### Flashing the firmware
 1.You need to download the folder labeled "Code".
 2.Open VS code and go to file and select open folder then go to esp-who\examples\human_face_recognition and click open folder.
