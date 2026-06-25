@@ -41,7 +41,7 @@ This project was made because I have a poor memory and I often forget peoples na
 
 ## Zine
 
-<img width="1545" height="2000" alt="1" src="https://github.com/user-attachments/assets/ec55c3d2-3d21-426c-b23b-758087df9d74" />
+<img width="417" height="591" alt="image" src="https://github.com/user-attachments/assets/a1eb2b4d-0571-45ae-b5fb-9bdb4a39066e" />
 
 ## Render
 
