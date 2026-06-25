@@ -19,7 +19,7 @@ This project was made because I have a poor memory and I often forget peoples na
 8.Go to the file who_recognition.cpp then you need to find where it says "Hello Amma" and change it out with the first person you will enroll so on and so forth.
 ## Bom
 
-<img width="1672" height="315" alt="image" src="https://github.com/user-attachments/assets/8c3776c1-904e-43b2-95de-c3e533ee3e17" />
+<img width="1000" height="580" alt="image" src="https://github.com/user-attachments/assets/7a43140b-b6a9-4ce1-a546-459cb7f80406" />
 
 ## Wiring Plan
 
