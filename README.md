@@ -18,6 +18,8 @@ This project was made because I have a poor memory and I often forget peoples na
 6.Press F1 and type  ESP-IDF: Select Port to Use (COM, tty, usbserial)
 7.Press F1 and run ESP-IDF: Build, Flash and Start a Monitor
 8.Go to the file who_recognition.cpp then you need to find where it says "Hello Amma" and change it out with the first person you will enroll so on and so forth.
+## Note
+The parts are held in place by having a gap in the main body which is can be filled by a seperate pin which blocks the parts from moving.  
 ## Bom
 
 | Name                     | Description                                     | Quanity | Unit Price | Shipping cost |
