@@ -2,7 +2,8 @@
 This project looks at people's faces using a small camera attached to the glasses frame. If a face matches an entry in my repository, the system retrieves the file name and plays the audio through a small speaker into my ear. Also I would like to preface this by saying I am using a libary called ESP-WHO and the example code I am using is made by them and modified by me.
 # Why I made this
 This project was made because I have a poor memory and I often forget peoples names so this is a simple and semi-elegant solution.Other people that may use this are people with memory loss or other memory related illnesses or diseases. 
-
+# Challenges I faced
+When I was designing this I went through 3 versions of my build. The first design was replaced because the chip I was using was too big and ended up with 2 separate parts which wasn't optimal so I changed the chip and battery to be smaller and fit on one side but I had to change that because it wasn't compatible with the code so the final design uses a esp32-s3 Eye which led to it being wider than the 2nd design.
 ## Construction Instructions:
 ### Sourcing Parts
 1.Download the BOM and open it in google sheets or some thing like it.
