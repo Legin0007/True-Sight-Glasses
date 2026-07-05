@@ -45,7 +45,7 @@ The parts are held in place by having a gap in the main body which is can be fil
 
 ## Zine
 
-<img width="463" height="662" alt="image" src="https://github.com/user-attachments/assets/4552a005-bdc2-4e86-8c14-bdf8cc88dd26" />
+<img width="480" height="682" alt="image" src="https://github.com/user-attachments/assets/18b1c8e5-9d90-463c-919b-34e27b98789f" />
 
 ## Render
 
