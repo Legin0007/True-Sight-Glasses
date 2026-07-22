@@ -36,7 +36,8 @@ The parts are held in place by having a gap in the main body which is can be fil
 | Heatshrink Tubing        | Can cover wires for safety and looks            | 1       | 2.68       | 0             |
 | Wires                    | To connect all electrical parts together        | 1       | 1.5        | 0             |
 | Wire Stripper            | To remove plastic from wires for easy soldering | 1       | 3.43       | 0             |
-| Total Cost               | The total cost of all items                     | 1       | 84.85      | 0             |
+| TP4056 charging module   | To recharge the battery                         | 1       | 5.99       | 0             |
+| Total Cost               | The total cost of all items                     | 1       | 91.24      | 0             |
 
 
 ## Wiring Plan
