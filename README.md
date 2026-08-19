@@ -71,7 +71,7 @@ The parts are held in place by having a gap in the main body which is can be fil
 <img width="3024" height="4032" alt="WhatsApp Image 2026-08-18 at 8 24 54 PM (2)" src="https://github.com/user-attachments/assets/ffc99008-7db8-45f1-b3d6-82c887e37b67" />
 
 <img width="4032" height="3024" alt="WhatsApp Image 2026-08-18 at 8 24 54 PM" src="https://github.com/user-attachments/assets/5aba24a6-9c00-4f0e-a27d-d0ded3ba35e1" />
-<img width="374" height="375" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/45ae9755-5dc5-488b-92f6-ff17aa22d387" />
+<img width="577" height="433" alt="WhatsApp_Image_2026-08-18_at_8 24 54_PM-removebg-preview" src="https://github.com/user-attachments/assets/e31666d1-6062-494b-87bd-4f4b1840d8b7" />
 
 ## Resources
 
