@@ -1,5 +1,5 @@
 ## What this project does
-This project looks at people's faces using a small camera attached to the glasses frame. If a face matches an entry in my repository, the system retrieves the file name and plays the audio through a small speaker into my ear. Also I would like to preface this by saying I am using a libary called ESP-WHO and the example code I am using is made by them and modified by me.
+This project looks at people's faces using a small camera attached to the glasses frame. If a face matches an entry in my repository, the system retrieves the file name and plays the audio through a small speaker into my ear. Also I would like to preface this by saying I am using a libary called ESP-WHO and the example code I am using is made by them and modified by me. Also here is the demo video https://youtube.com/shorts/fBa7BR6LM4Y?is=uIni2kENnGARo2fe
 # Why I made this
 This project was made because I have a poor memory and I often forget peoples names so this is a simple and semi-elegant solution.Other people that may use this are people with memory loss or other memory related illnesses or diseases. 
 # Challenges I faced
@@ -10,6 +10,14 @@ When I was designing this I went through 3 versions of my build. The first desig
 2.Go through all the links and buy the parts that are required.
 3.Download the folder called "3D-Models" download them and print them using your respective slicer.
 4.After you source all the parts put them in their respective positions and use the pins to hold them in place.
+### Soldering parts
+1.Solder the battery positive to B+ and the negative to the B-
+2.Solder 2 wires to out- and 1 to out+
+3.Solder the out+ wire to one side of the switch and solder 2 wires on the output of the switch
+4.Solder one of the positive wires from the switch to the amp SD pin.
+5.On the amp make a wire from Vin to SD along with the positive wire.
+6.Solder from the amp BCLK to IO21 then then LRC to IO48 then DIN to IO47
+7.Solder the one remaining positive and negative wire to the 2 + and - pins on the back of the esp32-s3 eye to provide power to that.
 ### Flashing the firmware
 1.You need to download the folder labeled "Code".
 2.Open VS code and go to file and select open folder then go to esp-who\examples\human_face_recognition and click open folder.
