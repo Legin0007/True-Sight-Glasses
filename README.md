@@ -73,7 +73,9 @@ The parts are held in place by having a gap in the main body which is can be fil
 <img width="577" height="433" alt="WhatsApp_Image_2026-08-18_at_8 24 54_PM-removebg-preview" src="https://github.com/user-attachments/assets/e31666d1-6062-494b-87bd-4f4b1840d8b7" />
 
 ## Resources
-
+## Video 
+<img width="481" height="500" alt="image" src="https://github.com/user-attachments/assets/fe37051f-98da-4cbf-9549-e18f0619b1b8" />
+https://youtube.com/shorts/fBa7BR6LM4Y?is=uIni2kENnGARo2fe
 Download link 
 https://docs.espressif.com/projects/idf-im-ui/en/latest/
 ESP-WHO link 
